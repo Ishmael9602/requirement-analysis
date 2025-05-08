@@ -42,25 +42,24 @@ Examples for the Booking Management System:
 - Bookings must be processed within 2 seconds for optimal user experience.
 - All user data must be encrypted to ensure security and privacy compliance.
 
-# Use Case Diagrams
-## Use Case Diagrams  
+# Use Case Diagrams 
 
 Use Case Diagrams help visualize system interactions, defining actors and system functionalities. They enhance understanding of user roles and system behavior.  
 
-### **Booking Management System Use Case Diagram**  
+**Booking Management System Use Case Diagram**  
 
 The following diagram represents interactions within the **Booking Management System**, including key actors and use cases:  
 
 - **Actors:** User, Admin, Payment System  
 - **Use Cases:** Book Room, Cancel Booking, View Availability, Process Payment  
 
-https://drive.google.com/file/d/1UkHhcxAUsGh8fGl6rSi21AZZoDbrFugw/view?usp=sharing  
+[https://drive.google.com/file/d/1UkHhcxAUsGh8fGl6rSi21AZZoDbrFugw/view?usp=sharing]  
 
 ## Acceptance Criteria  
 
 Acceptance Criteria define the conditions a feature must meet to be considered complete and functional. They ensure alignment with business needs and prevent misunderstandings during development.  
 
-### **Example: Checkout Feature Acceptance Criteria**  
+**Example: Checkout Feature Acceptance Criteria**  
 
 - The system must allow users to select a payment method and confirm booking details.  
 - A successful transaction must generate an automated booking confirmation.  
