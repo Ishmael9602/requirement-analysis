@@ -14,3 +14,8 @@ This focuses on Requirement Analysis, a critical phase in software development w
   Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
   Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
 
+# Why is Requirement Analysis Important?
+- List and describe at least three key reasons why Requirement Analysis is critical in the SDLC.
+  1. Requirement Gathering, Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
+  2. Requirement, Elicitation Brainstorming: Conducting brainstorming sessions to generate ideas and gather requirements.
+  3. Requirement Documentation, Requirement Specification Document: Creating a detailed document that lists all functional and non-functional requirements.
