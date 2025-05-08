@@ -51,7 +51,7 @@ A **Use Case Diagram** is a type of Unified Modeling Language (UML) diagram that
 - Serves as a foundation for creating system architecture and test cases.
 
 **Link image**
-[Use Case Diagram](https://raw.githubusercontent.com/Ishmael9602/requirement-analysis/main/alx-booking-uc.png)
+[alx-booking-uc.png](https://raw.githubusercontent.com/Ishmael9602/requirement-analysis/main/alx-booking-uc.png)
 
 
 
