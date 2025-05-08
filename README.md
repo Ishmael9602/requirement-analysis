@@ -51,14 +51,15 @@ A **Use Case Diagram** is a type of Unified Modeling Language (UML) diagram that
 - Serves as a foundation for creating system architecture and test cases.
 
 **Link image**
-![Use Case Diagram](![alx-booking-uc png](https://github.com/user-attachments/assets/9344c0be-7b4e-4234-8166-dddc9710f0c9)
-)
+![Use Case Diagram](https://raw.githubusercontent.com/Ishmael9602/requirement-analysis/main/alx-booking-uc.png)
+
 
 
 
 ## Acceptance Criteria  
 
 Acceptance Criteria define the conditions a feature must meet to be considered complete and functional. They ensure alignment with business needs and prevent misunderstandings during development.  
+
 
 **Example: Checkout Feature Acceptance Criteria**  
 
