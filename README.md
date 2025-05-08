@@ -43,17 +43,17 @@ Examples for the Booking Management System:
 - All user data must be encrypted to ensure security and privacy compliance.
 
 # Use Case Diagrams 
+A **Use Case Diagram** is a type of Unified Modeling Language (UML) diagram that shows how users (actors) interact with a system. It captures the system’s functionality from a user’s perspective.
 
-Use Case Diagrams help visualize system interactions, defining actors and system functionalities. They enhance understanding of user roles and system behavior.  
+### 🔹 Benefits of Use Case Diagrams:
+- Helps identify system requirements clearly.
+- Improves communication between stakeholders and developers.
+- Serves as a foundation for creating system architecture and test cases.
 
-**Booking Management System Use Case Diagram**  
+Below is a use case diagram for the **Booking System**.
+![alx-booking-uc png](https://github.com/user-attachments/assets/34aa84f7-4c1b-4a4c-9a79-98f6ce120957)
 
-The following diagram represents interactions within the **Booking Management System**, including key actors and use cases:  
 
-- **Actors:** User, Admin, Payment System  
-- **Use Cases:** Book Room, Cancel Booking, View Availability, Process Payment  
-
-[https://drive.google.com/file/d/1UkHhcxAUsGh8fGl6rSi21AZZoDbrFugw/view?usp=sharing]  
 
 ## Acceptance Criteria  
 
